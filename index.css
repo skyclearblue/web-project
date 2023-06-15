@@ -3,14 +3,29 @@
 
 
 .faq{
-    padding-top: 90px;
+      padding-top: 90px;
     padding-bottom: 90px;
+    position: relative;
+    min-width: 320px;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+    z-index: index 1;
     flex-basis: 100%;
     flex-shrink: 0;
     display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
     vertical-align: baseline;
     box-sizing: border-box;
-    font-family: "lato", sans-serif;
+    color: #fff;
+    --w-grid-item-v-padding: 31px;
+    --w-grid-item-h-padding: 27px;
+    --w-100vw: 100vw;
 }
 
 .faq__title_text{
