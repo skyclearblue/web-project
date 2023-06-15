@@ -1,6 +1,9 @@
+.faq{
+    padding-top: 90px;
+    padding-bottom: 9px;
+}
 
-
-.faq__title{
+.faq__title_text{
     display: block;
     vertical-align: baseline;
     box-sizing: border-box;
