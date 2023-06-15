@@ -1,11 +1,16 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
 .faq{
     padding-top: 90px;
-    padding-bottom: 9px;
+    padding-bottom: 90px;
     flex-basis: 100%;
     flex-shrink: 0;
     display: block;
     vertical-align: baseline;
     box-sizing: border-box;
+    font-family: "lato", sans-serif;
 }
 
 .faq__title_text{
