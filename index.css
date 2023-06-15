@@ -22,11 +22,14 @@
     font: inherit;
     vertical-align: baseline;
     box-sizing: border-box;
-    color: #1c1d1e;
-    --w-grid-item-v-padding: 31px;
-    --w-grid-item-h-padding: 27px;
-    --w-100vw: 100vw;
+    color: #fff;
+    --background-color: #1c1d1e;
+    --bg-gradient-angle: 0deg;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(var(--bg-gradient-angle)),to(var(--background-color)));
+    background-image: -webkit-linear-gradient(var(--bg-gradient-angle),var(--background-color));
+    background-image: linear-gradient(var(--bg-gradient-angle),var(--background-color))
 }
+    
 
 .faq__title_text{
     display: block;
