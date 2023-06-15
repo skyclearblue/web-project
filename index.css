@@ -1,11 +1,13 @@
-.faq{
-    padding-top: 90px;
-    padding-bottom: 9px;
-}
+
 
 .faq__title{
     display: block;
     vertical-align: baseline;
     box-sizing: border-box;
     color:blue;
+}
+
+.faq{
+    padding-top: 90px;
+    padding-bottom: 9px;
 }
