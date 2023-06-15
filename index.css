@@ -23,7 +23,7 @@
     vertical-align: baseline;
     box-sizing: border-box;
     color: #fff;
-    --ui-dark-shade-color:#1c1d1e;
+   color:#1c1d1e;
     --w-grid-item-v-padding: 31px;
     --w-grid-item-h-padding: 27px;
     --w-100vw: 100vw;
