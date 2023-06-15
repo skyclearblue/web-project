@@ -23,15 +23,16 @@
     font: inherit;
     vertical-align: baseline;
     box-sizing: border-box;
-    background-color: #1c1d1e;
-    color: #fff;
+    color: #1c1d1e;
+    
     
 }
     
 
 .faq__title_text{
     display: block;
-    
+    text-align:center;
+    color: #fff;
     box-sizing: border-box;
     color:blue;
 }
