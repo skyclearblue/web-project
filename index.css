@@ -1,11 +1,16 @@
 .faq{
     padding-top: 90px;
     padding-bottom: 9px;
+    flex-basis: 100%;
+    flex-shrink: 0;
+    display: block;
+    vertical-align: baseline;
+    box-sizing: border-box;
 }
 
 .faq__title_text{
     display: block;
-    vertical-align: baseline;
+    
     box-sizing: border-box;
     color:blue;
 }
