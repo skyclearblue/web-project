@@ -95,15 +95,12 @@
 /* flex*/
 .faq_flex-container_wrapper{
   display: flex;
-  flex-wrap: wrap;
+  /*flex-wrap: wrap;*/
   justify-content: center;
   margin: 30px;
 }
 
 .faq_flex-container_wrapper > div{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
   margin: 30px;
   text-align: left;
   max-width: width 480px; ;
