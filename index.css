@@ -25,18 +25,24 @@
     box-sizing: border-box;
     background-color: #1c1d1e;
     
-    
 }
     
 
 .faq__title_text{
-  background-color: #1c1d1e;
-    display: block;
-    text-align:center;
-    color: #1c1d1e;
-    box-sizing: border-box;
+  width: 162px;
+    margin: auto;
+    color: blue;
+    font-size: 24px;
+    font-family: Fjalla One, sans-serif;
     }
 
+    .faq_text{
+      width: 162px;
+    margin: auto;
+    color: black;
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    }
 .faq_grid-container{
   display: grid;
   grid-template-columns: auto auto auto auto auto auto;
