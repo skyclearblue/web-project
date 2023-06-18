@@ -95,7 +95,7 @@
 /* flex*/
 .faq_flex-container_wrapper{
   display: flex;
-  /*flex-wrap: wrap;*/
+  flex-wrap: wrap;
   justify-content: center;
   margin: 30px;
 }
