@@ -32,12 +32,29 @@
   width: 162px;
     margin: auto;
     color: blue;
+    font-size: 34px;
+    font-family: Fjalla One, sans-serif;
+    }
+
+    .faq_discription_text{
+      width: 488px;
+    margin: auto;
+    color: black;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    }
+    }
+
+    .faq_grid-container_title{
+      width: 488px;
+    margin: auto;
+    color: blue;
     font-size: 24px;
     font-family: Fjalla One, sans-serif;
     }
 
     .faq_text{
-      width: 162px;
+    width: 488px;
     margin: auto;
     color: black;
     font-size: 16px;
