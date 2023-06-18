@@ -62,12 +62,13 @@
     }
 .faq_grid-container{
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
   gap: 30px;
 }
 
 .faq_grid-container > div {
-  text-align: center;
+  text-align: left;
   padding: 20px 0;
   font-size: 30px;
 }
