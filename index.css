@@ -109,6 +109,7 @@
 	display: flex;
 	flex-direction: column;
   justify-content: space-around;
+  justify-content: center;
   flex-grow: 1;
 	flex: 1 1 30%;
 	padding-top: 34px;
