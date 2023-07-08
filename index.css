@@ -101,7 +101,9 @@
     flex-wrap: wrap;
     align-items: flex-start;
     align-content: flex-start;
-	}
+	
+
+}
 
 .faq_item_collum {
 	display: flex;
